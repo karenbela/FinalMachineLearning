@@ -1,0 +1,31 @@
+room_id,hall,occupant_count,interaction_frequency,shared_facility_frequency,ventilation_score
+102,Simply,4,10.5,13.5,1
+103,Simply,5,14,16.5,1
+107,Simply,6,10,15,0
+109,Simply,5,8.5,18,2
+110,Simply,6,4.5,16,0
+113,Simply,5,8,8,1
+115,Simply,5,14,10.5,0
+116,Simply,6,9,14,2
+117,Hip Hip,4,9,10.5,0
+118,Hip Hip,4,6.5,13,0
+121,Hip Hip,6,8,7.5,0
+122,Hip Hip,4,6.5,19,2
+123,Hip Hip,5,13.5,10.5,1
+127,Hip Hip,5,11,12,0
+129,Hip Hip,4,8,17.5,0
+217,Hotred,4,5.5,15,2
+218,Hotred,5,13,15.5,0
+221,Hotred,6,5.5,10,0
+222,Hotred,6,17,9,0
+224,Hotred,4,5.5,24,0
+227,Hotred,6,5.5,10.5,2
+228,Hotred,6,5,13,2
+201,Beepee,5,15,12,0
+204,Beepee,4,15,15,1
+205,Beepee,6,12,18.5,1
+208,Beepee,5,7.5,14,0
+211,Beepee,4,11,11,0
+213,Beepee,4,6.5,11.5,0
+214,Beepee,6,13.5,19,0
+215,Beepee,5,4,10,0
