@@ -134,3 +134,9 @@ Edelweiss_End_to_End/
 - **CSV tidak bisa diimpor:** cek kode/nama penghuni, room membership, kolom header, periode, consent, dan duplikasi.
 - **Port 8000 sudah digunakan:** hentikan Uvicorn lama (`Ctrl+C`), lalu nyalakan backend paket ini.
 - **`npm install` gagal:** periksa Node.js dan koneksi internet/registry npm di komputermu.
+
+## Local Development
+
+Local environment setup and dashboard testing.
+
+Contributor: Karen Bela ([@karenbela](https://github.com/karenbela))
